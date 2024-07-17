@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Meow-1.0";
 const contentToCache = [
     "Build/Meow.loader.js",
-    "Build/Meow.framework.js.br",
-    "Build/Meow.data.br",
-    "Build/Meow.wasm.br",
+    "Build/Meow.framework.js.gz",
+    "Build/Meow.data.gz",
+    "Build/Meow.wasm.gz",
     "TemplateData/style.css"
 
 ];
